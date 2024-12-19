@@ -28,6 +28,6 @@
         ]
       }
     },
-   "postCreateCommand": "../../requirement.txt"
+   "postCreateCommand": "../requirements.txt"
 
   }
